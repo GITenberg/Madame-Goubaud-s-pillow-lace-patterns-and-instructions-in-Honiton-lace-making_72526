@@ -1,0 +1,32 @@
+_repo: Madame-Goubaud-s-pillow-lace-patterns-and-instructions-in-Honiton-lace-making_72526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goubaud, Madame Adolphe
+    alias: Goubaud, Mme.
+    gutenberg_agent_id: '56712'
+    url: http://www.gutenberg.org/2009/agents/56712
+description: ''
+gutenberg_issued: '2023-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72526'
+language: en
+pgterms:marc904: https://archive.org/details/PillowLace/page/n7/mode/2up
+pgterms:marc905: 20210122221720goubaud
+pgterms:marc906: '1871'
+pgterms:marc907: GB
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bWard, Lock, and Tyler, $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making'
+- !lcc 'TT'
+- !lcc 'NK'
+- GITenberg
+title: Madame Goubaud's pillow lace patterns, and instructions in Honiton lace making
+url: http://www.gutenberg.org/ebooks/72526
