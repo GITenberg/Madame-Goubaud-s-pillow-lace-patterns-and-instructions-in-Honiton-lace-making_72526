@@ -1,5 +1,8 @@
 _repo: Madame-Goubaud-s-pillow-lace-patterns-and-instructions-in-Honiton-lace-making_72526
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72526-h/images/cover.jpg
 creator:
   author:
     agent_name: Goubaud, Madame Adolphe
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56712'
     url: http://www.gutenberg.org/2009/agents/56712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72526#Madame-Goubaud-s-pillow-lace-patterns-and-instructions-in-Honiton-lace-making
 gutenberg_issued: '2023-12-28'
 gutenberg_type: Text
 identifiers:
